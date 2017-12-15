@@ -10,6 +10,12 @@
   <action id="Diff.KeymapGroup">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl e" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -327,14 +333,19 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
   </action>
   <action id="NextProjectWindow" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
     <keyboard-shortcut first-keystroke="shift right" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
+  </action>
   <action id="PasteMultiple" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
-    <keyboard-shortcut first-keystroke="shift left" />
   </action>
   <action id="RecentFiles" />
   <action id="ReloadFromDisk">
