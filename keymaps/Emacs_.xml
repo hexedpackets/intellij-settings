@@ -10,12 +10,6 @@
   <action id="Diff.KeymapGroup">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl e" />
   </action>
-  <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
-  </action>
-  <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
-  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -31,9 +25,7 @@
   </action>
   <action id="EditorCutLineBackward" />
   <action id="EditorCutLineEnd" />
-  <action id="EditorDeleteToWordStart">
-    <keyboard-shortcut first-keystroke="alt back_space" />
-  </action>
+  <action id="EditorDeleteToWordStart" />
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="escape" />
   </action>
@@ -44,14 +36,12 @@
   <action id="EditorKillRegion" />
   <action id="EditorKillToWordEnd" />
   <action id="EditorKillToWordStart" />
-  <action id="EditorLeftWithSelection" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
-  <action id="EditorRightWithSelection" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt at" />
@@ -333,20 +323,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
   </action>
   <action id="NextProjectWindow" />
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
-    <keyboard-shortcut first-keystroke="shift right" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
-  </action>
   <action id="PasteMultiple" />
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift left" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
-  </action>
   <action id="RecentFiles" />
   <action id="ReloadFromDisk">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl v" />
