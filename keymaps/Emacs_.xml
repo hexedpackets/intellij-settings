@@ -25,7 +25,9 @@
   </action>
   <action id="EditorCutLineBackward" />
   <action id="EditorCutLineEnd" />
-  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="escape" />
   </action>

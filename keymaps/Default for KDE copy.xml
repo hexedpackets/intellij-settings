@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="ExportToTextFile" />
+  <action id="Tool_External Tools_Open in Emacs">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+</keymap>
