@@ -35,7 +35,9 @@
   </action>
   <action id="EditorKillRegion" />
   <action id="EditorKillToWordEnd" />
-  <action id="EditorKillToWordStart" />
+  <action id="EditorKillToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
