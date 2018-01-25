@@ -315,9 +315,7 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="back_quote" />
   </action>
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
-  </action>
+  <action id="HideActiveWindow" />
   <action id="JumpToLastChange" />
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
