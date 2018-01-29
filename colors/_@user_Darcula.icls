@@ -1,0 +1,14 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2018-01-29T13:41:34</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2017.3.3.0.0</property>
+    <property name="modified">2018-01-29T13:59:02</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
+</scheme>
