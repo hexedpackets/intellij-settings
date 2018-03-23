@@ -34,9 +34,8 @@
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="alt circumflex" />
   </action>
   <action id="EditorKillRegion" />
-  <action id="EditorKillToWordStart">
-    <keyboard-shortcut first-keystroke="alt back_space" />
-  </action>
+  <action id="EditorKillToWordEnd" />
+  <action id="EditorKillToWordStart" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -200,6 +199,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="Emacs+.KillWord">
+    <keyboard-shortcut first-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="ctrl delete" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="d" />
     <keyboard-shortcut first-keystroke="ctrl alt k" />
